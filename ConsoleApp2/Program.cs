@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 
 
-namespace ConsoleApp2
+namespace Pz1
 {
     class Program
     {
