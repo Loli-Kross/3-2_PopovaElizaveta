@@ -32,6 +32,9 @@ namespace PzGraph
     }
     public class Graph
     {
+        private int size;
+        private bool[,] adjacency;
+        private bool[] vector;
         public int Size { get; set; }
         public bool[,] Adjacency { get; set; }
         public bool[] Vector { get; set; }

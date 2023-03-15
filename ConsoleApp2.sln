@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pz1", "ConsoleApp2\Pz1.cspr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PzGraph", "PzGrath\PzGraph.csproj", "{9A7E33DF-1B4F-4FF5-BA30-87003C531633}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PzBalance", "PzBalance\PzBalance.csproj", "{C7DE405E-451B-4736-92F5-EDB595AB468F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9A7E33DF-1B4F-4FF5-BA30-87003C531633}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A7E33DF-1B4F-4FF5-BA30-87003C531633}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A7E33DF-1B4F-4FF5-BA30-87003C531633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7DE405E-451B-4736-92F5-EDB595AB468F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7DE405E-451B-4736-92F5-EDB595AB468F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7DE405E-451B-4736-92F5-EDB595AB468F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7DE405E-451B-4736-92F5-EDB595AB468F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
