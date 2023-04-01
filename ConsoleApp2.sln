@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PzBalance", "PzBalance\PzBa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pz_4_SerthTree", "Pz_4_SerthTree\Pz_4_SerthTree.csproj", "{4E9055A8-C787-462B-A11E-23E6141EE39C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pz_5_Interface", "Pz_5_Interface\Pz_5_Interface.csproj", "{217870D2-AB43-4235-9B32-ADC8760CFFB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pz_5_Interface", "Pz_5_Interface\Pz_5_Interface.csproj", "{217870D2-AB43-4235-9B32-ADC8760CFFB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pz_6_Asinhron", "Pz_6_Asinhron\Pz_6_Asinhron.csproj", "{38D8EC5B-3EA7-48C8-9153-AAAA02B71A6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{217870D2-AB43-4235-9B32-ADC8760CFFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{217870D2-AB43-4235-9B32-ADC8760CFFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{217870D2-AB43-4235-9B32-ADC8760CFFB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D8EC5B-3EA7-48C8-9153-AAAA02B71A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D8EC5B-3EA7-48C8-9153-AAAA02B71A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D8EC5B-3EA7-48C8-9153-AAAA02B71A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D8EC5B-3EA7-48C8-9153-AAAA02B71A6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
